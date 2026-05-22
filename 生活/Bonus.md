@@ -8,7 +8,7 @@ Your bonus amount will be based on the total amount of your Qualifying Direct De
 
 ## Status
 [x] Setup Account
-[x] Setup Direct Deposit (Texas Instruments)
+[x] Setup Direct Deposit ([Texas Instruments](https://edbz.fa.us2.oraclecloud.com))
 [ ] Bonus Received ($10,000+ for $500)
 [ ] Inactivate Account
 
