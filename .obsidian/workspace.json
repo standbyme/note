@@ -11,10 +11,14 @@
             "id": "1feaee769149be7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "生活/Bonus.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bonus"
             }
           }
         ]
@@ -179,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "967db523eaa3f792",
+  "active": "1feaee769149be7e",
   "lastOpenFiles": [
+    "生活",
     "Texas Instruments.md",
     "README.md",
     "Binary Model.md",
