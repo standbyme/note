@@ -1,0 +1,1 @@
+https://edbz.fa.us2.oraclecloud.com/fscmUI/redwood/payment-methods

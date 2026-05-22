@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e19b1b1f37628b0b",
+        "id": "250c15cc7a61206a",
         "type": "tabs",
         "children": [
           {
-            "id": "f583d13cb6298c8c",
+            "id": "1feaee769149be7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Model.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Binary Model"
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f666545ec7d77298",
@@ -175,17 +170,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "f583d13cb6298c8c",
+  "active": "967db523eaa3f792",
   "lastOpenFiles": [
+    "Texas Instruments.md",
+    "README.md",
     "Binary Model.md",
     "欢迎.md"
   ]
