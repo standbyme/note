@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97367ed8775599fd",
+        "id": "7f98d7e8b1bde3c0",
         "type": "tabs",
         "children": [
           {
-            "id": "638a53d4cea53664",
+            "id": "ee4ee2fb1e2c7e8a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "638a53d4cea53664",
+  "active": "ee4ee2fb1e2c7e8a",
   "lastOpenFiles": [
     "未命名.base",
     "Texas Instruments.md",
