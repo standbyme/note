@@ -10,9 +10,6 @@ https://edbz.fa.us2.oraclecloud.com/fscmUI/redwood/payment-methods
 **Date:** May 25, 2026, 9:58 AM
 
 ---
-
-![xdoimgxkKrTIbQev3246768783099514158.png](inline-image-placeholder)
-
 Hello Hongyu
 
 We are excited for you to join us on 08-Jun-26!
